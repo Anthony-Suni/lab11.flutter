@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:laboratorio02/app/view/splash.dart';
+import 'package:laboratorio02/app/view/task_list.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
